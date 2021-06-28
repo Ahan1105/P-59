@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+}
+
+#About {
+    height: 700px;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 30px;
+}
+
+img {
+    width: 300px;
+    border-radius: 50%;
+    margin: 50px;
+}
+
+#line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: auto;
+    margin-top: 20px;
+}
+
+section {
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-repeat: no-repeat;
+    height: 600px;
+    z-index: 9;
+}
+
+.menu {
+    list-style: none;
+    cursor: pointer;
+    z-index: 10;
+    position: absolute;
+    top: 10px;
+    right: 30px;
+}
+
+.link {
+    float: left;
+    color: white;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-weight: 400;
+    font-family: fantasy;
+}
+
+.link:hover {
+    background-color: dodgerblue;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#MyfavoriteSongs {
+    height: 1180px;
+}
+
+#drums2 {
+    height: 120px
+}
+
+#Work {
+    height;
+    1300px;
+}
